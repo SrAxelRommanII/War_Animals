@@ -1,17 +1,30 @@
-# war_animals
+# War Animals
+##Desarrollo de aplicaciones moviles
+##Christopher Alejandro Perfecto Díaz
 
-A new Flutter project.
+## Descripción
+**War Animals** es un juego de aventura y estrategia desarrollado en Flutter, inspirado en la exploración al estilo Pokémon GO. En él puedes crear a tu propio Comandante, verlo en 3D desde cualquier ángulo, cambiarle su vestuario, elegir a un compañero inicial y recorrer el mapa para avanzar en la historia.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Pantallas implementadas
+* **Inicio de sesión:** Permite entrar con tu cuenta para acceder al juego y guardar tu avance.
+* **Bienvenida e introducción:** Presenta la historia inicial y guía al jugador en sus primeros pasos.
+* **Descarga de recursos:** Prepara y carga los archivos necesarios antes de comenzar la partida.
+* **Personalización de Comandante:** Permite alternar entre personaje masculino o femenino, rotar el modelo 3D libremente y equipar distintos conjuntos, gorras, camisas, pantalones y calzado.
+* **Selección de compañero:** Pantalla para elegir a tu primer compañero táctico antes de salir a explorar.
+* **Pantalla principal y mapa:** Vista central del juego donde puedes moverte por el mapa, revisar tu estado y avanzar en la aventura.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Instrucciones para ejecutar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ¿Qué necesitas?
+* Tener instalado **Flutter** en tu computadora.
+* Tener **Google Chrome** (para probarlo en navegador) o un teléfono/emulador Android conectado.
+
+### Pasos para iniciarlo
+1. Descarga o clona este proyecto y entra a su carpeta:
+   ```bash
+   git clone [https://github.com/SrAxelRommanII/War_Animals.git](https://github.com/SrAxelRommanII/War_Animals.git)
+   cd War_Animals
